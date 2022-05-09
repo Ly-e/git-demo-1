@@ -23,4 +23,10 @@ var b = 2
 console.log(b)
 ```
 
+链接：[谷歌](https://www.google.com/)
+
+图片：
+
+![图片](ce00ed82d158ccbff86a63e95cd8bc3eb335416a.jpg)
+
 
